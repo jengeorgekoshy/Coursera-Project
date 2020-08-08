@@ -93,7 +93,7 @@ li{
 	font-weight: bold;
 }
 
-@media (min-width: 667px){
+@media (min-width: 769px){
 	#linktotop{
 		visibility: hidden;
 	}
